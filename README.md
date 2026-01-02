@@ -1,3 +1,2 @@
-# todolist_project
-# todolist_project
+# README #
 # todolist_project
